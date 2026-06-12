@@ -5,6 +5,19 @@
 ## Overview
 This project involves the processing of atmospheric lidar data using a modular set of R scripts. The scripts are organized to handle different levels of data processing, including Level 2 and Level 3 data. These include profile-based, integrated, and layer-resolved statistics, as well as the generation of standardized NetCDF output files for climatological and annual summaries.
 
+## Authors and Contributions
+- **Lucia Mona**  
+  National Research Council - Institute of Methodologies for Environmental Analysis, C.da S. Loja - Zona Industriale, I-85050 Tito Scalo (Potenza), Italy.
+  Scientific supervision of the project and contribution to the statistical analysis framework and methodological approach.
+  
+- **Ermann Ripepi**  
+  National Research Council - Institute of Methodologies for Environmental Analysis, C.da S. Loja - Zona Industriale, I-85050 Tito Scalo (Potenza), Italy.
+  Responsible for the GitHub repository setup, organization, integration of the source code, and maintenance of the project structure.
+
+- **Fabrizio Marra**  
+  National Research Council - Institute of Methodologies for Environmental Analysis, C.da S. Loja - Zona Industriale, I-85050 Tito Scalo (Potenza), Italy.
+  Developer of the R code for the generation of Level 3 aerosol climatology products within ACTRIS/EARLINET. Responsible for the design and implementation of the data processing algorithms, the statistical analysis workflow, and the generation of standardized NetCDF outputs.
+
 ## Structure
 The project consists of the following main components:
 
