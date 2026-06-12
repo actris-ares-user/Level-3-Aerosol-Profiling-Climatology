@@ -1,0 +1,35 @@
+Location,Latitude,Longitude,Altitude,Institution,Acronym,PI,PI_Contact,Code
+Aberystwyth - United Kingdom,51.8580,-4.2520,15,University of Wales – Aberystwyth,UWA,Geraint Vaughan,,aby
+Andoya – Norway,69.2780,16.0080,380,ALOMAR/Andøya Space Center,ALOMAR,Michael Gausa - Martin Fluegge,michael.gausa@rocketrange.no,arr
+Athens – Greece,37.96,23.78,212,National Technical University of Athens – Physics Department,NTUA,Alexandros Papayannis,apdlidar@central.ntua.gr,atz
+Barcelona – Spain,41.3930,2.12,115,Universitat Politecnica de Catalunya – Barcelona,TSC-UPC,Adolfo Comeron - Constantino Muñoz-Porcar,comeron@tsc.upc.es,brc
+Cabauw – Netherlands,51.97,4.93,0,Royal Netherlands Meteorological Institute,KNMI,Arnoud Apituley,apituley@knmi.nl,cbw
+Belsk – Poland,51.83,20.78,180,Institute of Geophysics - Polish Academy of Sciences - Warsaw,IGF PAN,Aleksander Pietruczuk,alek@igf.edu.pl,cog
+Dushanbe – Tajikistan,38.5594,68.8561,864,Leibniz Institute for Tropospheric Research,TROPOS,Dietrich Althausen - Ronny Engelmann,dietrich@tropos.de,dus
+Evora – Portugal,38.5678,-7.9115,293,Institute for Earth Sciences(Instituto de Ciencias da Terra),ICT,Daniele Bortoli,db@uevora.pt,evo
+Garmisch-Partenkirchen - Germany,47.4770,11.0640,730,Karlsruher Institut für Technologie - Garmisch-Partenkirchen,KIT,Hannes Vogelmann,hannes.vogelmann@kit.edu,gar
+Granada – Spain,37.1640,-3.6050,680,Andalusian Institute for Earth System Research - University of Granada,IISTA-CEAMA,Lucas Alados Arboledas,alados@ugr.es,gra
+Hamburg – Germany,53.5680,9.9730,25,Max-Planck-Institut für Meteorologie,DKRZ,Jens Bosenberg,boesenberg@dkrz.de,hbu
+Observatory Hohenpeissenberg – Germany,47.8019,11.0119,974,DWD Meteorological Observatory Hohenpeissenberg,DWD,Ina Mattis,Ina.Mattis@dwd.de,hpb
+Bucharest – Romania,44.3480,26.0290,93,National Institute of R&D for Optoelectronics,INOE,Doina Nicolae,nnicol@inoe.ro,ino
+Ispra – Italy,45.8167,8.6167,209,Joint Research Centre - Institute for Environment and Sustainability - Ispra,JRC,Jean Putaud,jean.putaud@ec.europa.eu,ipr
+Kuehlungsborn – Germany,54.12,11.77,70,Leibniz Institute for Atmospheric Physics,IAP,Matthias Alpers,,kuh
+Kuopio – Finland,62.7333,27.55,190,Finnish Meteorological Institute - Atmospheric Research Centre of Eastern Finland - Kuopio,FMI,Mika Komppula,mika.komppula@fmi.fi,kuo
+L'Aquila – Italy,42.3440,13.3270,683,Università degli Studi dell’Aquila - Dipartimento di Fisica - L’Aquila,CETEMPS,Vincenzo Rizi,vincenzo.rizi@aquila.infn.it,laq
+Leipzig – Germany,51.35,12.4330,125,Leibniz Institute for Tropospheric Research,TROPOS,Holger Baars - Ulla Wandinger,baars@tropos.de,lei
+Linkoping – Sweden,58.3920,15.5750,70,Swedish Defence Research Agency,FOI,Ove Gustafsson,ove.gustafsson@foi.se,lkp
+Limassol – Cyprus,34.6771,33.0376,11,ERATOSTHENES Centre of Excellence and Cyprus University of Technology,ECoE,Rodanthi-Elisavet Mamouri,rodanthi@eratosthenes.org.cy,lim
+Minsk – Belarus,53.9170,27.6050,200,B.I. Stepanov Institute of Physiscs - Minsk,IFAN,Anatoli Chaikovsky,chaikov@dragon.bas-net.by,mas
+Madrid – Spain,40.4565,-3.7257,669,Centro de Investigaciones Energéticas - Medioambientales y Tecnológicas - Madrid,CIEMAT,Manuel Pujadas,manuel.pujadas@ciemat.es,mdr
+Maisach – Germany,48.2090,11.2580,516,Meteorologisches Institut der Ludwig-Maximilians-Universität - München,MIM-LMU,Matthias Wiegner,m.wiegner@lmu.de,muc
+Munich – Germany,48.15,11.57,539,Meteorologisches Institut der Ludwig-Maximilians-Universität - München,MIM-LMU,Matthias Wiegner,m.wiegner@lmu.de,mun
+Naples – Italy,40.8380,14.1830,118,Dipartimento di Fisica - Università degli Studi di Napoli Federico II,UNINA,Salvatore Amoruso - Nicola Spinelli,salvatore.amoruso@unina.it,nap
+Payerne – Switzerland,46.8167,6.9333,491,MeteoSwiss Aerological Station - Payerne - Losanne,EPFL,Alexander Haefele - Giovanni Martucci – Renaud Matthey,Alexander.Haefele@meteoswiss.ch,pay
+Potenza – Italy,40.6,15.72,760,Consiglio Nazionale delle Ricerche - Istituto di Metodologie per l'Analisi Ambientale - Potenza,CNR-IMAA,Aldo Amodeo - Gelsomina Pappalardo,aldo.amodeo@imaa.cnr.it,pot
+Clermont-Ferrand – France,45.7610,3.1110,420,Observatoire de Physique du Globe,OPGC-LaMP,Patrick Freville,P.Freville@opgc.fr,puy
+Roma-Tor Vergata – Italy,41.8330,12.65,110,Consiglio Nazionale delle Ricerche - Istituto di Scienze Marine,CNR-ISAC,Davide Dionisi,d.dionisi@isac.cnr.it,rme
+Lecce – Italy,40.3330,18.1,30,University of Salento - Physics Department - Physics Department - Lecce,UNISALENTO,Maria Rita Perrone,maria.rita.perrone@le.infn.it,sal
+Palaiseau – France,48.7130,2.2080,156,Centre National de la Recherche Scientifique - Institut Pierre Simon Laplace - Paris,SIRTA,Christophe Pietras - Martial Haeffelin - Francois Ravetta - Jacques Pelon,christophe.pietras@lmd.polytechnique.fr,sir
+Sofia – Bulgaria,42.65,23.38,550,Institute of Electronics - Bulgarian Academy of Sciences - Sofia,IE-BAS,Dimitar V. Stoyanov - Zahari Peshev,dvstoyan@ie.bas.bg,sof
+Thessaloniki – Greece,40.63,22.95,50,Aristotle University of Thessaloniki,AUTH,Dimitris Balis,balis@auth.gr,the
+Warsaw – Poland,52.21,20.98,112,University of Warsaw - Faculty of Physics,IGF-FUW,Iwona S. Stachlewska,iwona.stachlewska@igf.fuw.edu.pl,waw
